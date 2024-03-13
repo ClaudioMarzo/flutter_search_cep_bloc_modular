@@ -12,20 +12,20 @@
 ### Screen
 - **HOME PAGE**
 
-![alt text](assets\images\doc\home_page.png)
+![alt text](assets/images/doc/home_page.png)
 
 - **TRATATIVAS DE ERRO**
 
-![alt text](assets\images\doc\erro_one.png)
-![alt text](assets\images\doc\erro_two.png)
-![alt text](assets\images\doc\erro_three.png)
+![alt text](assets/images/doc/erro_one.png)
+![alt text](assets/images/doc/erro_two.png)
+![alt text](assets/images/doc/erro_three.png)
 
 - **CEP VÁLIDO**
 
 Traz somente informações que não estão vazias
 
-![alt text](assets\images\doc\sucess_filter.png)
-![alt text](assets\images\doc\sucess_all.png)
+![alt text](assets/images/doc/sucess_filter.png)
+![alt text](assets/images/doc/sucess_all.png)
 
 # Instalação e Configuração 
 
