@@ -20,7 +20,9 @@ class SearchBloc extends Bloc<String, SearchCepState> {
             emit(SearchCepSucess(datanew));
           }
         } else {
-          emit(const SearchCepErro('O imput precisa ter 8 caracteres numéricos válidos'));
+          emit(
+            const SearchCepErro("O imput precisa ter: \n- O imput tem que ter 8 digitos\n- O imput não deve ser alfanumérico\n- O imput não deve ter espaço"),
+          );
         }
       },
     );
